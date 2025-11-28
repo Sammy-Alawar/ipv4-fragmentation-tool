@@ -75,7 +75,7 @@ sudo ./ip_fragment_overlap_attack.py --dst [Victim IP] --count 1 --payload "$(py
 
 
 
-# Run a simple UDP receiver on the target VM:
+# Run a simple UDP receiver on the target VM for testing:
 
 udp_server.py
 
