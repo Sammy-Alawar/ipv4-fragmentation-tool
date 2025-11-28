@@ -1,6 +1,8 @@
 # IPv4 Fragmentation and Overlapping Fragment Generator
 
-
+> **Disclaimer:**  
+> This project is for **educational use only** in controlled lab environments that you own or have explicit permission to test.  
+> Do **not** use this tool on networks, machines, or domains you do not control. Misuse may be illegal.
 This script builds and emits IPv4/UDP packets and can:
 
 Send whole UDP/IP datagrams,
