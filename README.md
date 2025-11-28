@@ -3,9 +3,9 @@
 
 This script builds and emits IPv4/UDP packets and can:
 
-send whole UDP/IP datagrams,
+Send whole UDP/IP datagrams,
 
-split a UDP datagram into proper (non-overlapping) IPv4 fragments, or
+Split a UDP datagram into proper (non-overlapping) IPv4 fragments, or
 
 craft overlapping fragments (final-fragment overlap or continuous multiple overlaps).
 
